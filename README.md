@@ -30,7 +30,7 @@ Este projeto é um dashboard interativo desenvolvido com Python e Streamlit, que
 - [Pandas](https://pandas.pydata.org/)
 - [Plotly](https://plotly.com/python/)
 - [Streamlit](https://streamlit.io/)
-- [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1iONirpeBx6-oFO_ZG1l8VZN5WdfMzHuX?usp=sharing)) (para prototipagem inicial)
+- [Google Colab]([https://colab.research.google.com/](https://colab.research.google.com/drive/1iONirpeBx6-oFO_ZG1l8VZN5WdfMzHuX?usp=sharing) (para prototipagem inicial)
 
 ---
 
