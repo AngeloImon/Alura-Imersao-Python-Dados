@@ -1,4 +1,4 @@
-
+📘 [This README is available in EN](https://github.com/AngeloImon/Alura-Imersao-Python-Dados/blob/main/README.en.md)
 
 # 📊 Dashboard de Salários na Área de Dados
 Este projeto é um dashboard interativo desenvolvido com Python e Streamlit, que analisa dados salariais de profissionais da área de dados ao redor do mundo. Ele foi criado como parte da Imersão Dados com Python da Alura e expandido para incluir visualizações dinâmicas e filtros personalizados.
@@ -28,12 +28,15 @@ Google Colab (para prototipagem inicial)
 
 📦 Como Executar Localmente
 Clone o repositório:
-  bash
-  git clone https://github.com/AngeloImon/Alura-Imersao-Python-Dados.git
-  cd Alura-Imersao-Python-Dados
+```
+git clone https://github.com/AngeloImon/Alura-Imersao-Python-Dados.git
+cd Alura-Imersao-Python-Dados
+```
 Instale as dependências:
-  bash
-  pip install -r requirements.txt
+```
+pip install -r requirements.txt
+```
 Execute o app:
-  bash
-  streamlit run app.py
+```
+streamlit run app.py
+```
