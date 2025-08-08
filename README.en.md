@@ -19,14 +19,14 @@ Remote vs on-site work proportion
 World map of salaries for data scientists
 Detailed data table with expandable view
 
-🛠 Technologies Used
+### 🛠 Technologies Used
 Python
 Pandas
 Plotly
 Streamlit
 Google Colab (for initial prototyping)
 
-📦 How to Run Locally
+##### 📦 How to Run Locally
 Clone the repository:
 ```
 git clone https://github.com/AngeloImon/Alura-Imersao-Python-Dados.git
