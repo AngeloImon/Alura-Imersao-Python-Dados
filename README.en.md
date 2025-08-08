@@ -27,8 +27,8 @@ Streamlit
 Google Colab (for initial prototyping)
 
 📦 How to Run Locally
-```
 Clone the repository:
+```
   bash
   git clone https://github.com/AngeloImon/Alura-Imersao-Python-Dados.git
   cd Alura-Imersao-Python-Dados
