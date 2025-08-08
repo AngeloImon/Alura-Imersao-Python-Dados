@@ -26,6 +26,9 @@ Plotly
 Streamlit
 Google Colab (para prototipagem inicial)
 
+
+
+
 📦 Como Executar Localmente
 Clone o repositório:
 ```
