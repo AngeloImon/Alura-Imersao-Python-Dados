@@ -26,10 +26,7 @@ Plotly
 Streamlit
 Google Colab (para prototipagem inicial)
 
-
-
-
-📦 Como Executar Localmente
+##### 📦 Como Executar Localmente
 Clone o repositório:
 ```
 git clone https://github.com/AngeloImon/Alura-Imersao-Python-Dados.git
