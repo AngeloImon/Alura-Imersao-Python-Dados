@@ -1,4 +1,4 @@
-📘 [Este README está disponível em PT-BR](https://github.com/AngeloImon/Alura-Imersao-Python-Dados/blob/main/README.en.md)
+📘 [Este README está disponível em PT-BR](https://github.com/AngeloImon/Alura-Imersao-Python-Dados/blob/main/README.md)
 
 # 📊 Data Science Salary Dashboard
 This project is an interactive dashboard built with Python and Streamlit, designed to analyze salary data from data professionals around the world. It was originally developed during the Data Immersion with Python course by Alura and expanded to include dynamic visualizations and custom filters.
