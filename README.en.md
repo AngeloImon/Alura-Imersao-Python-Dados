@@ -29,14 +29,14 @@ Google Colab (for initial prototyping)
 📦 How to Run Locally
 Clone the repository:
 ```
-  git clone https://github.com/AngeloImon/Alura-Imersao-Python-Dados.git
-  cd Alura-Imersao-Python-Dados
+git clone https://github.com/AngeloImon/Alura-Imersao-Python-Dados.git
+cd Alura-Imersao-Python-Dados
 ```
 Install dependencies:
 ```
-  pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 Run the app:
 ```
-  streamlit run app.py
+streamlit run app.py
 ```
