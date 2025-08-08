@@ -11,17 +11,17 @@ This project is an interactive dashboard built with Python and Streamlit, design
 ---
 
 ### 🧠 Features
--Interactive filters by year, seniority, contract type, and company size
--Key performance indicators (KPIs):
-  -Average, median, and maximum salary
-  -Total number of records
-  -Most frequent job title
--Interactive charts using Plotly:
-  -Top 10 job titles by average salary
-  -Salary distribution
-  -Remote vs on-site work proportion
-  -World map of salaries for data scientists
--Detailed data table with expandable view
+- Interactive filters by year, seniority, contract type, and company size
+- Key performance indicators (KPIs):
+  - Average, median, and maximum salary
+  - Total number of records
+  - Most frequent job title
+- Interactive charts using Plotly:
+  - Top 10 job titles by average salary
+  - Salary distribution
+  - Remote vs on-site work proportion
+  - World map of salaries for data scientists
+- Detailed data table with expandable view
 
 ---
 
